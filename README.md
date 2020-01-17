@@ -2,6 +2,12 @@
 
 This [site](https://computationallaw.github.io/AALE/) is an [MIT Legal Engineering](https://legal-engineering.mit.edu) open, collaborative research project to gather a list of automated and autonomous legal entity examples (eg corporations, LLCs, non-profits, etc).  We are seeking to compile a list of any such products and projects, including web-based, blockchain-based, and enterprise implementations. This research may be part of an upcoming publication of the MIT Computational Law Report and may form part of an upcoming summit of people leading such projects planned for April, 2020 at Stanford.  
 
+## Working on an AALE Project or Product?  Let Us Know!
+
+* Please fill out this short form to let us know about how you are tackling this challenge: [https://forms.gle/JzU2RfKD4r8vJNN98](https://forms.gle/JzU2RfKD4r8vJNN98)
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc40SAiUO1_hDM8NpJ55DFvyN3uhk0N9q33O29q2CudgHpQfw/viewform?embedded=true" width="640" height="1754" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## MIT Open Source Reference Implementation
 
 Concurrently, MIT is rapid prototyping an open source reference implementation to explore what functions, components and processes would be required to encapsulate an entire business or other organization within a single, integrated system of data and applications. The hypothesis is that such an organization would provide near complete and real-time knowledge of the organizations activities, assets, costs, operations and other important information and patterns.  It is likelise hypothesized that this encapsulated, integrated architecture would enable a unprecedented capability for rapid response and adaptation to external conditions and internal change management. 
