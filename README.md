@@ -1,6 +1,6 @@
 # AALE: Automated and Autonomous Legal Entities
 
-This [site](https://computationallaw.github.io/AALE/) is an [MIT Legal Engineering](https://legal-engineering.mit.edu) open, collaborative research project to gather a list of automated and autonomous legal entity examples (eg corporations, LLCs, non-profits, etc).  We are seeking to compile a list of any such products and projects, including web-based, blockchain-based, and enterprise implementations. This research may be part of an upcoming publication of the MIT Computational Law Report and may form part of an upcoming summit of people leading such projects planned for April, 2020 at Stanford.  
+This [site](https://computationallaw.github.io/AALE/) is an [MIT Legal Engineering](https://legal-engineering.mit.edu) open, collaborative research project to gather a list of automated and autonomous legal entity examples (eg corporations, LLCs, non-profits, etc).  We are seeking to compile a list of any such products and projects, including web-based, blockchain-based, and enterprise implementations. This research may be part of an upcoming publication of the [MIT Computational Law Report](https://law.mit.edu/pub/automatedlegalentitychallenge) and may form part of an upcoming summit of people leading such projects planned for April, 2020 at Stanford.  
 
 ## Working on an AALE Project or Product?  Let Us Know!
 
