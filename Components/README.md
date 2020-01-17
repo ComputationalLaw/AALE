@@ -1,6 +1,8 @@
 This subdirectory is for collecting and exploring potential components of a complete and integrated entity, including the business, legal and technical aspects.
 
-Previous [proposed components lists](https://www.quora.com/What-are-the-core-components-of-a-business) include:
+An excellent theoretical architecture of functional components, interfaces and interactions comprising a business can be found in the CommerceNet Eco-Framework.  
+
+Some interesting high level [proposed components lists](https://www.quora.com/What-are-the-core-components-of-a-business) include:
 
 List 1: 
 
